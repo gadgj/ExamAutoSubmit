@@ -9,7 +9,7 @@ namespace ConsoleApplicationExamAutoSubmit
 {
     class Program
     {
-        private static string urlGet = "http://wechat.sctcn.com/SctWeChat_Exam/WX/GetExamList?ExamTypeNo&Pname=赵子清&Pno=SCT01975&Pdepart=信息技术部&Type=WX";
+        private static string urlGet = "http://wechat.sctcn.com/SctWeChat_Exam/WX/GetExamList?ExamTypeNo&Pname=赵子清&Pno=SCT01974&Pdepart=信息技术部&Type=WX";
         private static string urlPost = "http://wechat.sctcn.com/SctWeChat_Exam/WX/SubmitExam";
         static void Main(string[] args)
         {
